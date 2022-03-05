@@ -1,0 +1,825 @@
+17+A. Armero
+17+A. Barzagli
+17+A. Begovic
+17+A. Belotti
+17+A. Carroll
+17+A. Christensen
+17+A. Conti
+17+A. Di Maria
+17+A. Djiku
+17+A. Golovin
+17+A. Gomez
+17+A. Griezmann
+17+A. Guardado
+17+A. Issoko
+17+A. Januzaj
+17+A. Lacazette
+17+A. Lafont
+17+A. Lallana
+17+A. Laporte
+17+A. Limbombe
+17+A. Martial
+17+A. Masuaku
+17+A. Modeste
+17+A. N'Diaye
+17+A. Oxlade-Chamberlain
+17+A. Rabiot
+17+A. Ramsey
+17+A. Robben
+17+A. Robertson
+17+A. Rudiger
+17+A. Sanchez
+17+A. Valencia
+17+A. Vidal
+17+A. Young
+17+Adama
+17+Aleix Vidal
+17+Alex Sandro
+17+Alex Telles
+17+Alisson
+17+Ander Herrera
+17+Andre Silva
+17+Andreas Pereira
+17+Arrizabalaga
+17+Azpilicueta
+17+B. Davies
+17+B. Embolo
+17+B. Henrichs
+17+B. Matuidi
+17+B. Mendy
+17+B. Pavard
+17+Badou Ndiaye
+17+Bakayoko
+17+Bartra
+17+Bruma
+17+C. Awaziem
+17+C. Bravo
+17+C. Chambers
+17+C. Eriksen
+17+C. Immobile
+17+C. Kouyate
+17+C. Marchisio
+17+C. Montes
+17+C. Musonda
+17+C. Ninga
+17+C. Smalling
+17+C. Tolisso
+17+C. Wilson
+17+Carvajal
+17+Casemiro
+17+Cesc Fabregas
+17+Coutinho
+17+Cristiano Ronaldo
+17+D. Abraham
+17+D. Alaba
+17+D. Alli
+17+D. Blind
+17+D. Brosinski
+17+D. Calabria
+17+D. De Rossi
+17+D. Demme
+17+D. Didavi
+17+D. Godin
+17+D. Lovren
+17+D. Mertens
+17+D. Rose
+17+D. Sanchez
+17+D. Upamecano
+17+D. Yedlin
+17+D. Zakaria
+17+Dalbert
+17+Dani Alves
+17+Daniel Podence
+17+Danilo
+17+Danilo Pereira
+17+Dante
+17+David Luiz
+17+De Gea
+17+De Marcos
+17+Deulofeu
+17+Diego Costa
+17+Djaniny
+17+Douglas Costa
+17+E. Bailly
+17+E. Can
+17+E. Cavani
+17+E. Choupo-Moting
+17+E. Dier
+17+E. Garay
+17+E. Hazard
+17+E. Mangala
+17+E. Salvio
+17+F. Borini
+17+F. Coquelin
+17+F. de Jong
+17+F. Delph
+17+F. Ghoulam
+17+F. Kessie
+17+F. Smolov
+17+Fabinho
+17+Felipe
+17+Felipe Anderson
+17+Fernandinho
+17+Filipe Luis
+17+Fred
+17+G. Bale
+17+G. Cahill
+17+G. Chiellini
+17+G. Donnarumma
+17+G. Donsah
+17+G. Dzhikiya
+17+G. Higuain
+17+G. Moreno
+17+G. Xhaka
+17+Gabi
+17+Gabriel Jesus
+17+Gelson Martins
+17+Grimaldo
+17+H. Kane
+17+H. Lloris
+17+H. Lozano
+17+H. Mkhitaryan
+17+Hector Bellerin
+17+Hong Chul
+17+Hullk
+17+I. Abate
+17+I. Gueye
+17+I. Gundogan
+17+I. Opara
+17+I. Perisic
+17+I. Rakitic
+17+Iago Aspas
+17+Iniesta
+17+Inigo Martinez
+17+Isco
+17+J. Biabiany
+17+J. Boateng
+17+J. Brandt
+17+J. Butland
+17+J. Cuadrado
+17+J. Draxler
+17+J. Gimenez
+17+J. Gomez
+17+J. Henderson
+17+J. Holebas
+17+J. Kimmich
+17+J. Kluivert
+17+J. Lukaku
+17+J. Mascherano
+17+J. Matip
+17+J. Milner
+17+J. Oblak
+17+J. Rodriguez
+17+J. Stones
+17+J. Vardy
+17+J. Vertonghen
+17+J. Weigl
+17+J. Wilshere
+17+Joao Cancelo
+17+Jordi Alba
+17+Jorginho
+17+Jose Callejon
+17+Juan Mata
+17+Juanfran
+17+K. Balde Diao
+17+K. Benzema
+17+K. Boateng
+17+K. Coman
+17+K. De Bruyne
+17+K. Dolberg
+17+K. Ehizibue
+17+K. Glik
+17+K. Havertz
+17+K. Koulibaly
+17+K. Manolas
+17+K. Mbabu
+17+K. Mbappe
+17+K. Navas
+17+K. Schmeichel
+17+K. Trapp
+17+K. Trippier
+17+K. Vogt
+17+K. Volland
+17+K. Walker
+17+K. Zouma
+17+Ki Sung Yueng
+17+Kim Young Gwon
+17+Koke
+17+L. Bailey
+17+L. Baines
+17+L. Biglia
+17+L. Bonucci
+17+L. Dendoncker
+17+L. Goretzka
+17+L. Hernandez
+17+L. Hradecky
+17+L. Insigne
+17+L. Koscienly
+17+L. Kurzawa
+17+L. Messi
+17+L. Modric
+17+L. Muriel
+17+L. Piszczek
+17+L. Sane
+17+L. Shaw
+17+L. Suarez
+17+L. Torreria
+17+L.Kalinic
+17+M. Antonio
+17+M. Arnautovic
+17+M. Balotelli
+17+M. Batshuayi
+17+M. Dahoud
+17+M. de Ligt
+17+M. De Sciglio
+17+M. Dembele
+17+M. Elneny
+17+M. Fellaini
+17+M. Ginter
+17+M. Gomez
+17+M. Hamsik
+17+M. Hummels
+17+M. Icardi
+17+M. Kovacic
+17+M. Lemina
+17+M. Locatelli
+17+M. Mandzukic
+17+M. Musacchio
+17+M. Neuer
+17+M. Ozil
+17+M. Pjanic
+17+M. Rashford
+17+M. Reus
+17+M. Rojo
+17+M. Salah
+17+M. Sissoko
+17+M. ter Stegen
+17+M. Verratti
+17+M. Yoshida
+17+Maicon
+17+Marcelo
+17+Marco Asensio
+17+Marcos Alonso
+17+Marcos Llorente
+17+Mario Fernandes
+17+Mario Gaspar
+17+Marquinhos
+17+Miranda
+17+Morata
+17+N. Clyne
+17+N. Elvedi
+17+N. Fekir
+17+N. Jorgensen
+17+N. Kante
+17+N. Keita
+17+N. Matic
+17+N. Otamendi
+17+N. Pope
+17+N. Sule
+17+Nacho Fernandez
+17+Nacho Monreal
+17+Naldo
+17+Nani
+17+Nelson Semedo
+17+Neymar
+17+O. Dembele
+17+O. Ndidi
+17+O. Toprak
+17+O. Yokuslu
+17+P. Aubameyang
+17+P. Crouch
+17+P. Dybala
+17+P. Mertesacker
+17+P. Ntep
+17+P. Pogba
+17+P. van Aanholt
+17+Paulinho
+17+Pedro
+17+Pepe
+17+Pique
+17+Pizzi
+17+Q. Promes
+17+Quaresma
+17+R. Babel
+17+R. Barkley
+17+R. Bertrand
+17+R. Fahrmann
+17+R. Guerreiro
+17+R. Karsdorp
+17+R. Lewandowski
+17+R. Lukaku
+17+R. Mahrez
+17+R. Nainggolan
+17+R. Rodriguez
+17+R. Romangnoli
+17+R. Sessegnon
+17+R. Varane
+17+R. Yabo
+17+Ramires
+17+Renato Sanches
+17+Ricardo Pereira
+17+Richarlison
+17+Roberto Firmino
+17+Rodrigo
+17+Roque Mesa
+17+S. Aguero
+17+S. Ascacibar
+17+S. Aurier
+17+S. de Vrij
+17+S. Handanovic
+17+S. Kolasinac
+17+S. Lichtsteiner
+17+S. Mane
+17+S. Milinkovic-Savic
+17+S. Mustafi
+17+S. Nakajima
+17+S. Okazaki
+17+S. Umtiti
+17+S. Vrsaljko
+17+Saul
+17+Sergi Roberto
+17+Sergio Busquets
+17+Sergio Ramos
+17+Sokratis
+17+Son Heung Min
+17+Suso
+17+T. Alderweireld
+17+T. Alexander-Arnold
+17+T. Bakayoko
+17+T. Bifouma
+17+T. Courtois
+17+T. Fosu-Mensah
+17+T. Hazard
+17+T. Hernandez
+17+T. Kroos
+17+T. Lemar
+17+T. Meunier
+17+T. Muller
+17+T. Partey
+17+T. Werner
+17+Thiago
+17+Thiago Silva
+17+V. de Vrij
+17+V. Kompany
+17+V. Lindelof
+17+V. Moses
+17+V. van Dijk
+17+V. Wanyama
+17+W. Ben Yedder
+17+W. Boly
+17+W. Cyprien
+17+W. Williams
+17+William Carvalho
+17+Willian
+17+Y. Mina
+17+Y. Rakitskyi
+17+Z. Ibrahimovic
+18+A. Begovic
+18+A. Robertson
+18+A. Valencia
+18+Alex Sandro
+18+Alex Telles
+18+Andre Silva
+18+B. Matuidi
+18+B. Mendy
+18+Cristiano Ronaldo
+18+D. da Costa
+18+E. Bailly
+18+G. Donnarumma
+18+G. Kondogbia
+18+I. Opara
+18+J. Butland
+18+J. Lukaku
+18+Joao Cancelo
+18+Jordi Alba
+18+K. Boateng
+18+K. De Bruyne
+18+K. Koulibaly
+18+K. Manolas
+18+K. Mbabu
+18+K. Mbappe
+18+K. Walker
+18+L. Goretzka
+18+L. Kalinic
+18+L. Messi
+18+L. Shaw
+18+M. Rashford
+18+M. Reus
+18+Marcelo
+18+N .Bendtner
+18+P. Pogba
+18+R. Mahrez
+18+R. Varane
+18+Sergio Ramos
+18+T. Courtois
+18+T. Hernandez
+18+T. Meunier
+18+T. Werner
+18+V. van Dijk
+18+W. Ndidi
+18+Z. Ibrahimovic
+18PL+Cristiano Ronaldo
+18PL+M. Salah
+18TOTY+Cristiano Ronaldo
+18TOTY+Dani Alves
+18TOTY+H. Kane
+18TOTY+K. De Bruyne
+18TOTY+L. Bonucci
+18TOTY+L. Messi
+18TOTY+L. Modric
+18TOTY+Marcelo
+18TOTY+N. Kante
+18TOTY+Sergio Ramos
+Icon+C. Makelele
+Icon+Eusebio
+Icon+F. Cannavaro
+Icon+F. Lampard
+Icon+J. Cruyff
+Icon+R. Baggio
+Icon+Rivaldo
+NHD+A. Barzagli
+NHD+A. Brehme
+NHD+A. Del Piero
+NHD+A. Di Maria
+NHD+A. Guardado
+NHD+A. Januzaj
+NHD+A. Kolarov
+NHD+A. Kone
+NHD+A. Nesta
+NHD+A. Oxlade-Chamberlain
+NHD+A. Shearer
+NHD+A. Valencia
+NHD+A. Vidal
+NHD+B. Howedes
+NHD+B. Laudrup
+NHD+B. Matuidi
+NHD+B. Moore
+NHD+Butragueno
+NHD+C. Maggio
+NHD+C. Marchisio
+NHD+C. Puyol
+NHD+C. Vieri
+NHD+Cesc Fabregas
+NHD+Cristiano Ronaldo
+NHD+D. Bergkamp
+NHD+D. De Rossi
+NHD+D. Godin
+NHD+D. Maradona
+NHD+D. Opare
+NHD+D. Origi
+NHD+D. Sturridge
+NHD+D. Suker
+NHD+Dani Alves
+NHD+David Luiz
+NHD+David Silva
+NHD+E. Hazard
+NHD+E. Pettit
+NHD+F. Baresi
+NHD+F. Cannavaro
+NHD+F. De Boer
+NHD+F. Guarin
+NHD+F. Inzaghi
+NHD+F. Ljungberg
+NHD+F. Ribery
+NHD+F. Rijkaard
+NHD+Fernando Hierro
+NHD+Fernando Torres
+NHD+G. Buffon
+NHD+G. Cahill
+NHD+G. Chiellini
+NHD+G. Clichy
+NHD+G. Hagi
+NHD+G. Higuain
+NHD+G. Lineker
+NHD+G. Neville
+NHD+G. Zola
+NHD+H. Crespo
+NHD+H. Lloris
+NHD+H. Stoichkov
+NHD+Hulk
+NHD+I. Abate
+NHD+I. Rakitic
+NHD+Iniesta
+NHD+J. Boateng
+NHD+J. Mascherano
+NHD+J. Okocha
+NHD+J. Pastore
+NHD+J. Rodriguez
+NHD+J. Vertonghen
+NHD+J. Zanetti
+NHD+Joao Moutinho
+NHD+Jordi Alba
+NHD+Juanfran
+NHD+K. Benzema
+NHD+K. Boateng
+NHD+K. De Bruyne
+NHD+K. Manolas
+NHD+K. Mirallas
+NHD+Koke
+NHD+L. Blanc
+NHD+L. Donovan
+NHD+L. Koscielny
+NHD+L. Matthaus
+NHD+L. Messi
+NHD+L. Shaw
+NHD+L. Suarez
+NHD+L. Yashin
+NHD+Luiz Gustavo
+NHD+M Neuer
+NHD+M. Balotelli
+NHD+M. Desailly
+NHD+M. Fellaini
+NHD+M. Gomez
+NHD+M. Hummels
+NHD+M. Laudrup
+NHD+M. Overmars
+NHD+M. van Basten
+NHD+Marcelo
+NHD+Nani
+NHD+Neymar
+NHD+O. Bierhoff
+NHD+O. Martins
+NHD+P. Jones
+NHD+P. Maldini
+NHD+P. Mertesacker
+NHD+P. Nedved
+NHD+P. Pogba
+NHD+P. Schmeichel
+NHD+P. Scholes
+NHD+P. Vieira
+NHD+Paulo Futre
+NHD+Pele
+NHD+Pepe
+NHD+Pique
+NHD+R. Ferdinand
+NHD+R. Fowler
+NHD+R. Gullit
+NHD+R. Huth
+NHD+R. Keane
+NHD+R. Lukaku
+NHD+R. Montolivo
+NHD+R. Pires
+NHD+R. Sterling
+NHD+R. van Nistelrooy
+NHD+R. van Persie
+NHD+R. Varane
+NHD+R.Montolivo
+NHD+Ramires
+NHD+Raul Albiol
+NHD+Roberto Carlos
+NHD+Ronaldinho
+NHD+Ronaldo
+NHD+S. Aguero
+NHD+S. Campbell
+NHD+S. Effenberg
+NHD+S. Kalou
+NHD+S. Khedira
+NHD+S. Lulic
+NHD+Santi Cazorla
+NHD+Sergio Busquets
+NHD+Sergio Ramos
+NHD+Sokratis
+NHD+T. Alderweireld
+NHD+T. Courtois
+NHD+T. Henry
+NHD+T. Kroos
+NHD+T. Motta
+NHD+T. Muller
+NHD+T. Sheringham
+NHD+T. Vermaelen
+NHD+Thiago Silva
+NHD+V. Kompany
+NHD+Veron
+NHD+W. Rooney
+NHD+Y. Toure
+NHD+Z. Ibrahimovic
+No Label
+PSG+A. Di Maria
+PSG+A. Rabiot
+PSG+Dani Alves
+PSG+E. Cavani
+PSG+E. Choupo-Moting
+PSG+J. Draxler
+PSG+Kimpembe
+PSG+L. Kurzawa
+PSG+Marquinhos
+PSG+Neymar
+PSG+Thiago Silva
+TB+A. Christensen
+TB+A. Florenzi
+TB+A. Gomez
+TB+A. Griezmann
+TB+A. Lallana
+TB+A. Laporte
+TB+A. Martial
+TB+A. Oxlade-Chamberlain
+TB+A. Rudiger
+TB+A. Valencia
+TB+A. Vidal
+TB+A. Yarmolenko
+TB+Alex Sandro
+TB+Alex Telles
+TB+Allan
+TB+Ander Herraera
+TB+B. Bereszynski
+TB+B. Matuidi
+TB+Bruno Fernandes
+TB+C. Immobile
+TB+C. Smalling
+TB+Carvajal
+TB+Cedric
+TB+Cristiano Ronaldo
+TB+D. Alaba
+TB+D. Alli
+TB+D. Laxalt
+TB+De Marcos
+TB+E. Bailly
+TB+E. Cavani
+TB+E. Hazard
+TB+F. Coquelin
+TB+F. Ghoulam
+TB+Fabio Coentrao
+TB+Filipe Luis
+TB+G. Bale
+TB+G. Bonaventura
+TB+G. Castro
+TB+G. Chiellini
+TB+G. Higuain
+TB+Gelson Martins
+TB+H. Ziyech
+TB+Hector Bellerin
+TB+I. Perisic
+TB+Inigo Martinez
+TB+Ismaily
+TB+J. Bednarek
+TB+J. Boateng
+TB+J. Butland
+TB+J. Kimmich
+TB+J. Matip
+TB+J. Mojica
+TB+J. Pastore
+TB+J. Stones
+TB+J. Stryger Larsen
+TB+J.Ilicic
+TB+Juanfran
+TB+K. De Bruyne
+TB+K. Manolas
+TB+K. Mbappe
+TB+K. Vogt
+TB+K. Walker
+TB+Koke
+TB+L. Augustinsson
+TB+L. Bonucci
+TB+L. Goretzka
+TB+L. Messi
+TB+L. Milivojevic
+TB+L. Suarez
+TB+Luis Alberto
+TB+M. Balotelli
+TB+M. Kovacic
+TB+M. Parolo
+TB+M. Rojo
+TB+M. Sabitzer
+TB+M. Salah
+TB+M. Uth
+TB+M. Vecino
+TB+Manolas
+TB+Marcelo
+TB+Marcos Alonso
+TB+Miranda
+TB+N. Kante
+TB+N. Matic
+TB+N. Sule
+TB+Nelson Semedo
+TB+O. Dembele
+TB+O. Toprak
+TB+P. Aubameyang
+TB+P. Cech
+TB+P. Pogba
+TB+Paulinho
+TB+R. Lewandowski
+TB+R. Nainggolan
+TB+R. Rodriguez
+TB+R. Varane
+TB+Roberto Firmino
+TB+Rodrigo
+TB+S. Aurier
+TB+S. Mane
+TB+S. Milinkovic Savic
+TB+S. Vrsaljko
+TB+Sergi Roberto
+TB+Sergio Ramos
+TB+Sokratis
+TB+Son Heung Min
+TB+T. Courtois
+TB+T. Kroos
+TB+T. Meunier
+TB+T. Muller
+TB+T. Werner
+TB+Thiago Silva
+TB+V. Aboubakar
+TB+V. van Dijk
+TB+Vrsalijko
+TB+Williams
+TT+A. Brehme
+TT+A. Lalas
+TT+A. Nesta
+TT+A. Rudiger
+TT+A. Schurrle
+TT+A. Shearer
+TT+A. Shevchenko
+TT+A. Valencia
+TT+A. Vidal
+TT+A. Young
+TT+Alex Sandro
+TT+B. Mendy
+TT+Butragueno
+TT+C. Tevez
+TT+Cesc Fabregas
+TT+Cristiano Ronaldo
+TT+D. Zappacosta
+TT+Dani Alves
+TT+David Luiz
+TT+De Gea
+TT+E. Bailly
+TT+E. Pettit
+TT+F. Cannavaro
+TT+F. Inzaghi
+TT+F. Rijkaard
+TT+Fabio Coentrao
+TT+Fernando Hierro
+TT+G. Bale
+TT+G. Kondogbia
+TT+H. Crespo
+TT+H. Stoichkov
+TT+Hulk
+TT+I. Gundogan
+TT+J. Henderson
+TT+J. Locadia
+TT+J. Mascherano
+TT+J. Okocha
+TT+Joao Cancelo
+TT+Joao Moutinho
+TT+Jorginho
+TT+K. De Bruyne
+TT+K. Iheanacho
+TT+K. Mbappe
+TT+K. Walker
+TT+L. Blanc
+TT+L. Kurzawa
+TT+L. Matthaus
+TT+L. Modric
+TT+L. Shaw
+TT+L. Suarez
+TT+Lallana
+TT+Luis Figo
+TT+M. Balotelli
+TT+M. Benatia
+TT+M. Dembele
+TT+M. Desailly
+TT+M. Hummels
+TT+M. Owen
+TT+M. Sissoko
+TT+M. van Basten
+TT+N. Kante
+TT+N. Matic
+TT+Nacho Monreal
+TT+Nelson Semedo
+TT+Neymar
+TT+P. Aubameyang
+TT+P. Dybala
+TT+P. Kluivert
+TT+P. Nedved
+TT+P. Pogba
+TT+P. Vieira
+TT+Paulinho
+TT+Pele
+TT+R. Ferdinand
+TT+R. Gullit
+TT+R. Keane
+TT+R. Lukaku
+TT+R. Mahrez
+TT+R. Nainggolan
+TT+R. van Nistelrooy
+TT+Ramires
+TT+Renato Sanches
+TT+Ronaldinho
+TT+Ronaldo
+TT+S. Aurier
+TT+S. Campbell
+TT+S. Effenberg
+TT+S. Mustafi
+TT+S. Umtiti
+TT+Sergio Ramos
+TT+Son Heung Min
+TT+T. Henry
+TT+T. Kroos
+TT+T. Walcott
+TT+Thiago Silva
+TT+V. van Dijk
+TT+Willian
+TT+Y. Bolasie
+TT+Y. M'Vila
+VN+Luong Xuan Truong
+VN+Nguyen Cong Phuong
+VN+Nguyen Quang Hai
